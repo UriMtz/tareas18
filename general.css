@@ -1,0 +1,32 @@
+h1#principal{
+	color: #4d7740;
+	font-family: "Verdana";
+}
+h2#articulos{
+	color:silver;
+	font-family: Georgia;
+	background-color: #4d7740;
+}
+h2#principal{
+	color: white;
+	font-family: Georgia;
+
+}
+table#t01 {
+  width: 100%;    
+  background-color: #EABE3F;
+  text-align: left;
+}
+a{
+	color: white;
+	text-decoration: none
+}
+p#articulos{
+	text-align: justify;
+	letter-spacing: 1px;
+	font-family: verdana;
+	background-color: #EABE3F
+}
+.negro{
+	color: black;
+}
