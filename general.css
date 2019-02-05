@@ -19,7 +19,11 @@ table#t01 {
 }
 a{
 	color: white;
-	text-decoration: none
+	text-decoration: none;
+}
+a#descargas{
+	text-decoration: none;
+	color: black;
 }
 p#articulos{
 	text-align: justify;
@@ -29,4 +33,26 @@ p#articulos{
 }
 .negro{
 	color: black;
+}
+ol#todo {
+	list-style-type: circle;
+}
+li#todo{
+	float: none;
+}
+table {
+  border-collapse: collapse;
+  width: 100%
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+.ncalendario{
+	color: gray;
+}
+th{
+	height: 50px;
+	text-align: left;
+	vertical-align: text-top;
 }

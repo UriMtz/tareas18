@@ -1,0 +1,6 @@
+ol {
+	list-style-type: upper-latin;
+}
+li#todo{
+	float: none;
+}
