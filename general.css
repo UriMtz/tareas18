@@ -53,6 +53,7 @@ table, th, td {
 }
 th{
 	height: 50px;
+	width: 100px;
 	text-align: left;
 	vertical-align: text-top;
 }
